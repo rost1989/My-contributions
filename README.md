@@ -12,8 +12,5 @@ Participant in [Validators School](https://github.com/Distributed-Validators-Syn
 - Omniflix
 - Aleo
 - Consordium
+- Irisnet
 - [Polymath](https://polymath.network/polymesh-testnet/getting-started-polymesh-itn)
-
-
-
-
