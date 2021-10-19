@@ -8,8 +8,8 @@
 
 
 >**Participation in testnets:**
-- [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7)
-- [NYM](https://nodes.guru/nym/mixnodecheck?q=punk1ark495s7w7qq2e8yfgg3c7nvfwt2rr5lewmjhy)
+- [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7) active
+- [NYM](https://nodes.guru/nym/mixnodecheck?q=punk1ark495s7w7qq2e8yfgg3c7nvfwt2rr5lewmjhy) active
 - STX
 - Omniflix
 - Aleo
@@ -31,3 +31,5 @@
   - [Guide to IOTEX DEFI on desktop (bridge, swap, liquidity, yield farming, metamask)](https://medium.com/@polarbear.validator/guide-to-iotex-defi-using-metamask-chrome-extention-bridge-swap-liquidity-yield-farming-21075fe357f6)
   - active member in [zoomswap](https://zoomswap.io/) Telegram channel (leading DEFI farming dapp on IoTeX);
   - contributed with identifying small UI errors on [zoomswap](https://zoomswap.io/) website;
+>> SubQuery:
+  - [Inforgraphics "Everything you need to know about SubQuery Academy"](https://twitter.com/rost_1989/status/1450457460456701955?s=20)
