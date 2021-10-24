@@ -33,3 +33,4 @@
   - contributed with identifying small UI errors on [zoomswap](https://zoomswap.io/) website;
 >> SubQuery:
   - [Inforgraphics "Everything you need to know about SubQuery Academy"](https://twitter.com/rost_1989/status/1450457460456701955?s=20)
+  - [Important things for Module 1](https://twitter.com/rost_1989/status/1451641730156089351?s=20)
