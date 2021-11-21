@@ -13,7 +13,7 @@
 - STX
 - Omniflix
 - Aleo
-- Consordium
+- Concordium
 - Irisnet
 - [Polymath](https://polymath.network/polymesh-testnet/getting-started-polymesh-itn)
 
@@ -28,8 +28,7 @@
   - [stickers](https://t.me/addstickers/swth_demex)
   - took active part in translation of UI for [switcheo.exchange](https://switcheo.exchange/) (exchange evolved into dem.exchange)
 ### IoTeX:
-  - [Guide to IOTEX DEFI on desktop (bridge, swap, liquidity, yield farming, metamask)](https://medium.com/@polarbear.validator/guide-to-iotex-defi-using-metamask-chrome-extention-bridge-swap-liquidity-yield-farming-21075fe357f6)
-  - active member in [zoomswap](https://zoomswap.io/) Telegram channel (leading DEFI farming dapp on IoTeX);
+  - [Guide to IOTEX DEFI on desktop (bridge, swap, liquidity, yield farming, metamask)](https://medium.com/@polarbear.validator/guide-to-iotex-defi-using-metamask-chrome-extention-bridge-swap-liquidity-yield-farming-21075fe357f6);
   - contributed with identifying small UI errors on [zoomswap](https://zoomswap.io/) website;
 ### SubQuery:
   - [Inforgraphics "Everything you need to know about SubQuery Academy"](https://twitter.com/rost_1989/status/1450457460456701955?s=20)
