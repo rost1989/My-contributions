@@ -1,6 +1,6 @@
 # Experience
 
-## **Proud padawan of [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School)**
+## **Successfully graduated from [Validators School](https://github.com/Distributed-Validators-Synctems/Validator-School)**
 
 ## **Mainnet network participation:**
 - [Minaprotocol](https://minaexplorer.com/wallet/B62qoZHCPoNTozrDqDtj6vjY7MmD9ZEakVMxTR7btNnqjoKzUqp4EKx)
