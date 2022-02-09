@@ -10,6 +10,7 @@
 ## **Participation in testnets:**
 - [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7) active
 - [NYM](https://nodes.guru/nym/mixnodecheck?q=punk1ark495s7w7qq2e8yfgg3c7nvfwt2rr5lewmjhy) active
+- [Cosmos Game Hub](https://gamenet.one/)
 - STX
 - Omniflix
 - Aleo
