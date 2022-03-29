@@ -18,6 +18,8 @@
 - Concordium
 - Irisnet
 - [Polymath](https://polymath.network/polymesh-testnet/getting-started-polymesh-itn)
+- Aptos
+- Penumbra
 
 ## **Participation in hackatons:**
 - [Near 16-18 Dec 2021 in DomaNodes team](https://www.youtube.com/watch?v=Ly0yrLQeZRA)
