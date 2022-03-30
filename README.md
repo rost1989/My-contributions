@@ -4,7 +4,7 @@
 
 ## **Mainnet network participation:**
 - [Minaprotocol](https://minaexplorer.com/wallet/B62qoZHCPoNTozrDqDtj6vjY7MmD9ZEakVMxTR7btNnqjoKzUqp4EKx)
-- Solana
+- [Solana](https://www.validators.app/validators/5spfmL3ZksWzAdAoKE5VzUuQKW5R3CwxbJYBJBymXYMH?network=mainnet)
 - NKN
 - [Carbon.network](https://scan.carbon.network/validator/swthvaloper16tnvdazthcf680gaxaand8vv3y2fzcchr3gzj9?net=main)
 
