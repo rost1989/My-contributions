@@ -7,6 +7,7 @@
 - [Solana](https://www.validators.app/validators/5spfmL3ZksWzAdAoKE5VzUuQKW5R3CwxbJYBJBymXYMH?network=mainnet)
 - NKN
 - [Carbon.network](https://scan.carbon.network/validator/swthvaloper16tnvdazthcf680gaxaand8vv3y2fzcchr3gzj9?net=main)
+- [Nym mixnode](https://mixnet.explorers.guru/mixnode/BSLE84LgCyUQQhchteamGcCmVa62Lj8J954qTt6vqHmb)
 
 ## **Participation in testnets:**
 - [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7) active
