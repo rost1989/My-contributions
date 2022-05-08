@@ -5,13 +5,13 @@
 ## **Mainnet network participation:**
 - [Minaprotocol](https://minaexplorer.com/wallet/B62qoZHCPoNTozrDqDtj6vjY7MmD9ZEakVMxTR7btNnqjoKzUqp4EKx)
 - [Solana](https://www.validators.app/validators/5spfmL3ZksWzAdAoKE5VzUuQKW5R3CwxbJYBJBymXYMH?network=mainnet)
-- NKN
 - [Carbon.network](https://scan.carbon.network/validator/swthvaloper16tnvdazthcf680gaxaand8vv3y2fzcchr3gzj9?net=main)
 - [Nym mixnode](https://mixnet.explorers.guru/mixnode/BSLE84LgCyUQQhchteamGcCmVa62Lj8J954qTt6vqHmb)
+- NKN
 
 ## **Participation in testnets:**
 - [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7) active
-- [NYM](https://nodes.guru/nym/mixnodecheck?q=punk1ark495s7w7qq2e8yfgg3c7nvfwt2rr5lewmjhy) active
+- NYM
 - [Cosmos Game Hub](https://gamenet.one/)
 - STX
 - Omniflix
@@ -21,6 +21,7 @@
 - [Polymath](https://polymath.network/polymesh-testnet/getting-started-polymesh-itn)
 - Aptos
 - Penumbra
+- Archway
 
 ## **Participation in hackatons:**
 - [Near 16-18 Dec 2021 in DomaNodes team](https://www.youtube.com/watch?v=Ly0yrLQeZRA)
