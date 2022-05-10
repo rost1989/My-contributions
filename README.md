@@ -10,12 +10,14 @@
 - NKN
 
 ## **Participation in testnets:**
+- SubQuery
 - [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7) active
 - NYM
 - [Cosmos Game Hub](https://gamenet.one/)
 - STX
 - Omniflix
 - Aleo
+- Ironfish
 - Concordium
 - Irisnet
 - [Polymath](https://polymath.network/polymesh-testnet/getting-started-polymesh-itn)
