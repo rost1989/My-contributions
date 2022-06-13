@@ -47,5 +47,6 @@
   - [SubQuery usecase in short](https://twitter.com/rost_1989/status/1455524628831641603?s=20)
   - [SubQuery cheetsheet](https://twitter.com/rost_1989/status/1462506750704336899?s=20)
   - [Video teaser about SubQuery Academy](https://twitter.com/rost_1989/status/1481295643859632130)
+  - [Short animation](https://twitter.com/rost_1989/status/1536279450698010624?s=20&t=jaWZehA9f16jRzSrNKVZ7w)
 ### NKN:
   - [NKN node guide](https://github.com/rost1989/NKN-guide)
