@@ -10,6 +10,7 @@
 - NKN
 
 ## **Participation in testnets:**
+- SUI
 - SubQuery
 - [Solana](https://solana.foundation/sfdp-validators/511pMfd4oivn6uE7MrcJ21hTvcaCtwPGTLgnQAfopir7) active
 - NYM
