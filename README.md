@@ -30,7 +30,7 @@
 - [Near 16-18 Dec 2021 in DomaNodes team](https://www.youtube.com/watch?v=Ly0yrLQeZRA)
 
 ## **Ambassador:**
-- [Zilliqa](https://www.zilliqa.com/)
+- [Zilliqa](https://www.zilliqa.com/) (former)
 - [SubQuery.network](https://subquery.network/)
 
 
